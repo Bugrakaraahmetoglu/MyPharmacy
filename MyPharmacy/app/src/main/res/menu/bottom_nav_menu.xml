@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/fragment_pharmacy"
+    android:title="Pharmacy"
+    android:icon="@drawable/baseline_local_pharmacy_24"/>
+
+    <item android:id="@+id/fragment_hospital"
+        android:title="Hospital"
+        android:icon="@drawable/hospital"/>
+
+    <item android:id="@+id/fragment_clinic"
+        android:title="Clinic"
+        android:icon="@drawable/baseline_clinic"/>
+
+</menu>
